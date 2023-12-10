@@ -23,5 +23,5 @@ and am a student at CyberSoft academy**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caosonnw&show_icons=true&locale=en&layout=compact" alt="caosonnw" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caosonnw&show_icons=true&locale=en" alt="caosonnw" /></p>
+
 

@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Caosonnw</h1>
 <h3 align="center">An enthusiastic Full-Stack Web developer from Vietnam</h3>
 <img align="right" alt"Young talent" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
-<p><img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"></p>
+<p><img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" height="30" width="40"></p>
 
 - 👨‍💻 **I am currently a 2nd year student at HUFLIT
 and am a student at CyberSoft academy**

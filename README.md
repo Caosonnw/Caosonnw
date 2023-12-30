@@ -3,8 +3,6 @@
 <h3 align="center">An enthusiastic Full-Stack Web developer from Vietnam</h3>
 <img align="right" alt"Young talent" width="400" src="https://miro.medium.com/v2/resize:fit:1024/0*Za8H9d3CCWPRSJkl.gif">
 
-<p align="left"> <img src="https://miro.medium.com/v2/resize:fit:1024/0*Za8H9d3CCWPRSJkl.gif" alt="caosonnw" /> </p>
-
 - 👨‍💻 **I am currently a 2nd year student at HUFLIT
 and am a student at CyberSoft academy**
 

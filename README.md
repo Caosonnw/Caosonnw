@@ -1,16 +1,16 @@
 [![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://rishavchanda.io)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Cao+sonnw!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Caosonnw!;" />
 </h1>
 <h3 align="center">An enthusiastic Full-Stack Web developer from Vietnam</h3>
 <img align="right" alt"Young talent" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 
-- 👨‍💻 **I am currently a 2nd year student at HUFLIT
+- 👨‍💻 **I am currently a 3nd year student at HUFLIT
 and am a student at CyberSoft academy**
 
 - 📫 Contact me: **maivucaoson.forwork@gmail.com**
 
-- ⚡ Fun fact **I think I am a person who is eager to learn and likes to experience**
+- ⚡ **I think I am a person who is eager to learn and likes to experience**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

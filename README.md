@@ -2,11 +2,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Caosonnw!;" />
 </h1>
-<h3 align="center">An enthusiastic Full-Stack Web developer from Vietnam</h3>
+<h3 align="center">An enthusiastic Backend Web developer from Vietnam</h3>
 <img align="right" alt"Young talent" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 
-- 👨‍💻 **I am currently a 3nd year student at HUFLIT
-and am a student at CyberSoft academy**
+- 👨‍💻 **I am currently a 3nd year student at HUFLIT**
 
 - 📫 Contact me: **maivucaoson.forwork@gmail.com**
 

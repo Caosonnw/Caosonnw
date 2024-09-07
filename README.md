@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D12AQGPHPw1EQRu1Q/article-cover_image-shrink_600_2000/0/1645684142018?e=2147483647&v=beta&t=SllF47i-q6d9iufTZS9hMwkbbL5VM7cRdy6oJXUXCtM)](https://rishavchanda.io)
+[![MasterHead](https://repository-images.githubusercontent.com/284436772/86362c00-cc71-11eb-8182-1f7e2746d3d2)](https://rishavchanda.io)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Caosonnw!;" />
 </h1>

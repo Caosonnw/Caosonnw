@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/284436772/86362c00-cc71-11eb-8182-1f7e2746d3d2)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/0*FJJugDwO6kMmcIpz.gif)](https://rishavchanda.io)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Caosonnw!;" />
 </h1>

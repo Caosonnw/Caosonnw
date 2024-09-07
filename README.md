@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://rishavchanda.io)
+[![MasterHead](https://techcrunch.com/wp-content/uploads/2021/12/aws-logo-glitch.gif)](https://rishavchanda.io)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Caosonnw!;" />
 </h1>

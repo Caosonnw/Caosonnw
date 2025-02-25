@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/0*FJJugDwO6kMmcIpz.gif)](https://rishavchanda.io)
+[![MasterHead]([https://miro.medium.com/v2/resize:fit:1358/0*FJJugDwO6kMmcIpz.gif)](https://rishavchanda.io](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Falvin-dennis%2Falvin-dennis%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw18fXY24U9cUTYH9FhxsWvV&ust=1740582621980000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqGAoTCPD-ytiN34sDFQAAAAAdAAAAABDOAQ))
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Caosonnw!;" />
 </h1>

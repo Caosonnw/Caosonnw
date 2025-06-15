@@ -20,6 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <br/>
 <div align="center">
+    <img src="https://skillicons.dev/icons?i=jenkins,kubernetes,aws,linux,postman" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react" /><br>
   <img src="https://skillicons.dev/icons?i=js,ts,vite,redux,github,git,vercel,visualstudio,vscode" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,mongodb,sequelize,graphql,prisma,nextjs,docker,cs,dotnet,java " />
